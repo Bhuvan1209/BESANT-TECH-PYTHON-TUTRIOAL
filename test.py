@@ -1,0 +1,16 @@
+print("helloworld")
+a=10
+b=10.77
+c=10+20j
+d="bhuvan"
+e=[1,2]
+f=[20.200,24.20]
+g=["orange","apple"]
+h=[10+5j]
+i=[1,5.5,5j,"banana"]
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(i))
